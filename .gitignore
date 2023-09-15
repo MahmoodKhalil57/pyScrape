@@ -1,0 +1,4 @@
+.venv
+.vscode
+.dir
+client/node_modules
